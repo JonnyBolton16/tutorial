@@ -1,3 +1,2 @@
 This file will be used to record notes on the data and the analysis.
-
-Hello world!
+We will write notes on everything we change in every script.
